@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Club Project and University project**
 
-- 🌱 I’m currently learning **Back-end Web Development**
+- 🌱 I’m currently learning **Back-end Web Development and DevOps**
 
 - 👯 I’m looking to collaborate on **any projects**
 
