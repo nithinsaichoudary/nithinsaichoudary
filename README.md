@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/nithin_cj03" target="blank"><img src="https://img.shields.io/twitter/follow/nithin_cj03?logo=twitter&style=for-the-badge" alt="nithin_cj03" /></a> </p>
 
-- 🔭 I’m currently working on **Club Project and University project**
+- 🔭 I’m currently working on **Club Project and Some small projects**
 
 - 🌱 I’m currently learning **Back-end Web Development and DevOps**
 
